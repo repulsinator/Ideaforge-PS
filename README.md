@@ -191,13 +191,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PX4 Development Team** for the open-source autopilot platform
 - **Research contributions** from cited academic papers
 
-## Team
 
-**Team 67** - Inter IIT Tech Meet 13.0
-- Developed comprehensive fault-tolerant quadcopter control system
-- Integrated machine learning and advanced control techniques
-- Demonstrated robust performance in simulation environments
-
----
-
-For detailed technical documentation, see the [Technical Report](./docs/technical_report.pdf) and individual module documentation in the `/docs` folder.
