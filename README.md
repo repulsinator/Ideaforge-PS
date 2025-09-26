@@ -180,9 +180,6 @@ We welcome contributions to improve the fault-tolerant control system. Please fo
 - Real-world testing and validation
 - Performance optimization
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
